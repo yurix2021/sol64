@@ -1,2 +1,1 @@
-# sol64
-v1
+# Proyecto C64
